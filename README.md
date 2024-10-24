@@ -1,5 +1,5 @@
 
-## Quark ID - Contributors
+## Quark ID - Contributions
 
 ### Welcome to the Quark ID Contributors repository! This repository is designed to acknowledge and organize contributions made by individuals and teams to the Quark ID project. 
 
